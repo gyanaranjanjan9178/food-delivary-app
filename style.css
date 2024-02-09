@@ -1,0 +1,138 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid red;
+}
+.log img{
+    height: 70px;
+    width: 200px;
+}
+.navbar-item{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    width: 40px;
+}
+.navbar-items li:hover{
+    color: orangered;
+}
+.home{
+    background-color: url(./images/Rectangle\ 47.png);
+    height: 800px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.home-text{
+    color: white;
+    text-align: center;
+    width: 50px;
+    height: 30px;
+}
+.home-button-one{
+    width: 300px;
+    height: 60px;
+    background-color: orangered;
+    font-size: large;
+    font-weight: bold;
+    color: wheat;
+    border-radius: 15px;
+    border: none;
+}
+.home-buttom-two{
+    width: 300px;
+    height: 60px;
+    font-size: large;
+    font-weight: bold;
+    color: orangered;
+    border-radius: 15px;
+    border: none;
+}
+.home.img{
+    position:relative;
+    top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
+#home-img-one{
+    position: relative;
+    left: 13%;
+    top: 25px;
+}
+.ceneter-text{
+    text-align: center;
+}
+.login-page{
+    display: flex;
+    justify-content: center;
+    border: 2px solid red;
+    height: 500px;    
+}
+.page-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.page-texth3{
+    color: orangered;
+}
+.page-textp{
+    color: gray;
+}
+.end{
+    background-image:url(./images/Rectangle\ 47.png);
+    height: 500px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.end-text{
+    color: white;
+    text-align: center;
+    width: 50px;
+    height: 30px;
+}
+.end-button-one{
+    width: 200px;
+    height: 50px;
+    background-color: orangered;
+    font-size: large;
+    font-weight: bold;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+.end-button-two{
+    width: 200px;
+    height: 50px;
+    font-size: large;
+    font-weight: bold;
+    color:orangered;
+    border-radius: 10px;
+    border: none;
+}
+.contact{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.fa-twitter{
+    color: orangered;
+}
+.fa-square-facebook{
+    color: orangered;
+}
+.fa-square-instagram{
+    color: orangered;
+}
+.contact-img{
+    height: 80px;
+    width: 180px;
+}
+.contacth6{
+    margin-right: 50px;
+}
